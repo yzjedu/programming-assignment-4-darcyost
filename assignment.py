@@ -1,6 +1,6 @@
 # Programmer: [Darcy Ostrander]
 # Course: CS701/GB-731, Dr. Yalew
-# Date: [8/7/2024]
+# Date: [8/9/2024]
 # Programming Assignment: 4
 # Program Inputs: A positive integer < 1000
 # Program Outputs: The English name of the integer
